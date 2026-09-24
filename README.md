@@ -8,12 +8,6 @@
 
 в данный момент времени изучаю представленные ниже технологии </span>
 
-## активность
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kr4sn0v&theme=vue&hide_border=false" />
-</div>
-
 ## стек
 <p align="center">
   <!-- frontend -->
